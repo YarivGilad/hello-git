@@ -1,5 +1,6 @@
 some content
-
+second remote line
 third line -- local change i've made
 
 This line was written remotely
+
