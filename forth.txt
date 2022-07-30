@@ -1,4 +1,4 @@
 some content
-
+second remote line
 
 This line was written remotely
